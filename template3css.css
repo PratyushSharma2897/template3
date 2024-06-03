@@ -1,0 +1,145 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.inlineb{
+    display:inline-block;
+    padding:20px;
+}
+#main1{
+    display:flex;
+    position:fixed;
+    background-color:white;
+    z-index: 1;
+    margin-top:-100px;
+    width:100%;
+}
+#abouttab{
+    margin-left:360px;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+#backimage{
+    background-image: url("images/template3image2.jpg");
+    background-repeat: no-repeat;
+    height:600px;
+    width:100%;
+    text-align: center;
+    margin-top:100px;
+    background-size:100% 100%;
+}
+#ambitiontext{
+margin-bottom:-60px;
+}
+#successtext{
+
+}
+#availabletext{
+
+margin-top:-60px;
+}
+#btn1{
+    padding:10px;
+    background-color:black;
+    margin-top:20px;
+    color:white;
+    width:200px;
+}
+#abouttext{
+margin-top:50px;
+margin-left:100px;
+}
+#paragraph{
+width:400px;
+margin-left:40px;
+}
+#flex{
+    display:flex;
+}
+#aboutimage{
+    margin-left:220px;
+}
+#readbtn{
+margin-left:60px;
+background-color: black;
+color:white;
+padding:10px;
+}
+#consultationbtn{
+    margin-left:30px;
+    background-color: whitesmoke;
+    color:black;
+    padding:10px;
+}
+#backimage2{
+    background-image:url("images/temolate3image4.webp");
+    padding:20px;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+#text1{
+    margin-top:50px;
+    margin-left:200px;
+}
+.box{
+    border:4px solid black;
+    width:300px;
+    height:300px;
+    margin-left:20px;
+}
+.intext1{
+    text-align:center;
+}
+.btn2{
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+.textspacing{
+    margin-top:20px;
+}
+
+#multipleboxes{
+    display:flex;
+    padding:20px;
+}
+#btnspace1{
+    margin-top:85px;
+}
+#btnspace2{
+    margin-top:65px;
+}
+#btnspace3{
+    margin-top:15px;
+}
+#btn3{
+    margin-left:550px;
+    margin-top:50px;
+}
+#main2{
+    background-color:#58bcbc;
+    border:1px solid #58bcbc;
+    display:flex;
+}
+#inputtags{
+    margin-left:100px;
+    padding:50px;
+}
+#textbox{
+    margin-left:200px;
+    padding:20px;
+}
+input{
+    border:2px solid black;
+    background-color:#58bcbc;
+    padding:10px;
+    width:300px;
+}
+textarea{
+    border:2px solid black;
+    background-color:#58bcbc;
+    padding:10px;
+    width:300px;
+}
